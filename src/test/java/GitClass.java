@@ -37,4 +37,10 @@ public class GitClass {
 		private void m9() {
 			System.out.println("9");
 		}
+		private void m10() {
+			System.out.println("10");
+		}
+	private void m11() {
+			System.out.println("11");
+		}
 }
